@@ -1,6 +1,5 @@
 
-![Full Stack Development][(https://media.licdn.com/dms/image/D4D16AQHmS33j6_zuDg/profile-displaybackgroundimage-shrink_350_1400/0/1684113588237?e=1694044800&v=beta&t=YxLBVsllOSuAZ2I-kvSxVP8gljJTOeEstL-oGKnGHmw)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.skillreactor.io%2Fblog%2Fwhat-is-a-full-stack-developer%2F&psig=AOvVaw3Xzwr7GlSv3SvyoJrbG60w&ust=1722097155633000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCwqI2OxYcDFQAAAAAdAAAAABAE)
-
+![Full Stack Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3b16bfrs3bSUNJ-HBCfTeLb9VIwqFJthwQ&s)
 ### William Varela
 
 I'm a developer passionate about technology, especially enchanted by the transformative power of code. Along the way, I found Node.js to be a solid foundation for building backends that not only work well, but also scale gracefully as needs grow.
